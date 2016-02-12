@@ -11,6 +11,12 @@ information about your bar membership.
 
 Here are the members:
 
+## [Aaron Feldman]
+
+Member of the New York State and Tennessee bars
+
+[LaTeX for Lawyers G+ community](https://plus.google.com/u/0/communities/117481232881578280631)
+
 ## [David Pollak](https://github.com/dpp)
 
 Member of the Rhode Island bar (inactive).
